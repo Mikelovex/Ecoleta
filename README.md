@@ -22,3 +22,4 @@ This project was developed with the following technologies:
 - ✔️ Css
 - ✔️ Javascript
 - ✔️ Nunjucks
+- ✔️ NodeJS
